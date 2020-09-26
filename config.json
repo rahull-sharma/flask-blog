@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codegeass",
+    "prod_uri": "mysql://root:@localhost/codegeass",
+    "fb_url": "https://www.facebook.com/animeworld",
+    "tw_url": "https://www.twitter.com/animeworld",
+    "gt_url": "https://www.github.com/animeworld",
+    "blog_name": "Anime World",
+    "tag_line": "A Blog By Rahul",
+    "gmail-user": "your-email-address@gmail.com",
+    "gmail-password": "your-gmail-password",
+    "about_text": "Hello! this is my blog you can contact me on contact page",
+    "no_of_posts": 2,
+    "login_image": "login.png",
+    "admin_user": "Rahul",
+    "admin_password": "9876543210",
+    "upload_location": "C:\\Users\\kickx\\PycharmProjects\\flaskproject\\static"
+  }
+
+}
