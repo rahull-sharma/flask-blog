@@ -2,8 +2,8 @@
   "params":
   {
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/codegeass",
-    "prod_uri": "mysql://root:@localhost/codegeass",
+    "local_uri": "mysql://root:@localhost/animeworld",
+    "prod_uri": "mysql://root:@localhost/animeworld",
     "fb_url": "https://www.facebook.com/animeworld",
     "tw_url": "https://www.twitter.com/animeworld",
     "gt_url": "https://www.github.com/animeworld",
